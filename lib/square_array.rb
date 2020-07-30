@@ -1,3 +1,7 @@
+squared_array = []
+
 def square_array(array)
-  # your code here
+  array.length.push(array[index] **2)
+end
+squared_array
 end
